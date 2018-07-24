@@ -1,0 +1,3 @@
+[scrapy]
+settings = hao123.settings
+
